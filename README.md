@@ -1,4 +1,4 @@
-[![spring-boot-kafka](https://github.com/Bayvao/spring-boot-kafka/workflows/Build/badge.svg)]
+![spring-boot-kafka](https://github.com/Bayvao/spring-boot-kafka/workflows/Build/badge.svg)
 # spring-boot-kafka
 
 This repository has the complete code related to kafka producers/consumers using spring boot.
