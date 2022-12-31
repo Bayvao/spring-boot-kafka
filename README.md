@@ -1,5 +1,5 @@
-#![kafka-for-developers-using-spring-boot](https://github.com/Bayvao/spring-boot-kafka/workflows/spring-boot-kafka/badge.svg)
-# kafka-for-developers-using-spring-boot
+![kafka-for-developers-using-spring-boot](https://github.com/Bayvao/spring-boot-kafka/workflows/build.yml/badge.svg)
+# spring-boot-kafka
 
 This repository has the complete code related to kafka producers/consumers using spring boot.
 
