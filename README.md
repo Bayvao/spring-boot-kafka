@@ -4,7 +4,7 @@
 This repository has the complete code related to kafka producers/consumers using spring boot.
 
 
-# Setup Kafka using below links
+## Securing your Kafka Cluster using SSL
 
 - [Setup-Kafka](https://github.com/Bayvao/spring-boot-kafka/blob/master/Setup_Kafka.md)
 
